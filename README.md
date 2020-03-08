@@ -1,4 +1,4 @@
-# SPARCED: An SBML model of Pan-Cancer RTK Signaling and Stochastic Gene Expression 
+# SPARCED: An SBML Model of Pan-Cancer RTK Signaling and Stochastic Gene Expression 
 
 SPARCED is a new version of the mechanistic pan-cancer signaling model by Birtwistle Lab, originally written in MATLAB. The cellular signaling portion of the earlier model is converted into an SBML model. The new scheme still uses the stochastic gene expression model, which exchanges mRNA concentration information with the SBML model every 30 seconds. Please refer to the orginial model at:
 
@@ -9,15 +9,17 @@ SPARCED is a new version of the mechanistic pan-cancer signaling model by Birtwi
 
 # Installation:
 
-1) Install Anaconda
-- Follow the instructions depending on your machine: https://docs.anaconda.com/anaconda/user-guide/getting-started/
-- Install basic packages like python (3.7 or later), numpy, scipy, matplotlib, jupyter-notebooks...
+### 1) Install Anaconda
+  - Follow the instructions depending on your machine: https://docs.anaconda.com/anaconda/user-guide/getting-started/
+  - Install basic packages like python (3.7 or later), numpy, scipy, matplotlib, jupyter-notebooks...
 
-2) Install AMICI
-- Follow the instructions on project home: https://github.com/ICB-DCM/AMICI
-- For WINDOWS machines, we recommend installation via creating a new dedicated conda environment. 
+### 2) Install AMICI
+  - Follow the instructions on project home: https://github.com/ICB-DCM/AMICI
+  - For WINDOWS machines, we recommend installation via creating a new dedicated conda environment. 
 
-3) Install QTAntimony GUI (or Tellurium package): http://antimony.sourceforge.net/ or https://tellurium.readthedocs.io/en/latest/installation.html#installation-options
+### 3) Install QTAntimony GUI (or Tellurium package): 
+  - http://antimony.sourceforge.net/
+  - https://tellurium.readthedocs.io/en/latest/installation.html#installation-options
 
 
 # Model creation (OPTIONAL):
