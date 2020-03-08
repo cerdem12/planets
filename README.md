@@ -7,7 +7,8 @@ SPARCED is a new version of the mechanistic pan-cancer signaling model by Birtwi
 2) https://github.com/birtwistlelab/Mechanistic_Pan-Cancer_Model
 
 
-# Installation:
+
+## Installation:
 
 ### 1) Install Anaconda
   - Follow the instructions depending on your machine: https://docs.anaconda.com/anaconda/user-guide/getting-started/
@@ -22,7 +23,8 @@ SPARCED is a new version of the mechanistic pan-cancer signaling model by Birtwi
   - https://tellurium.readthedocs.io/en/latest/installation.html#installation-options
 
 
-# Model creation (OPTIONAL):
+
+## Model creation (OPTIONAL):
 
 1) Modify the input files for desired model conditions.
 
@@ -35,13 +37,16 @@ SPARCED is a new version of the mechanistic pan-cancer signaling model by Birtwi
 5) Use the third part of the "SPARCED_ModelCreateWrite.ipynb" to convert the SBML (.xml) file to an AMICI model.
 
 
-# Model simulation:
 
-1) After completing the "Model Creation" part, by using the available files, use the jupyter-notebook called "RunModel.ipynb" to run the model for the specified conditions.
+## Model simulation:
+
+After completing the "Model Creation" part, by using the available files, use the jupyter-notebook called "RunModel.ipynb" to run the model for the specified conditions.
 
 
 
+## Acknowledgments:
 
+This work is a product of [Birtwistle Lab](http://www.birtwistlelab.com/) and multiple colloborators.
 
 
 
