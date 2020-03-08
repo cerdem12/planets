@@ -44,7 +44,7 @@ After completing the "Model Creation" part, by using the available files, use th
 
 
 
-## Acknowledgments:
+## Acknowledgements:
 
 This work is a product of [Birtwistle Lab](http://www.birtwistlelab.com/) and multiple colloborators.
 
