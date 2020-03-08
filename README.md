@@ -57,7 +57,7 @@ The acronym SPARCED is composed of following elements, based on the sub-models i
   
 ###  P: Proliferation
   
-###  A: ### Apoptosis
+###[A:]  Apoptosis
   
   R: Receptor
   
