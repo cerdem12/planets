@@ -54,11 +54,17 @@ This work is a product of [Birtwistle Lab](http://www.birtwistlelab.com/) and mu
 The acronym SPARCED is composed of following elements, based on the sub-models in the big mechanistic ODE model.
 
   S: SBML
+  
   P: Proliferation
+  
   A: Apoptosis
+  
   R: Receptor
+  
   C: Cell Cycle
+  
   E: Expression
+  
   D: Death
 
 
