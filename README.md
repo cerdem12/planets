@@ -40,7 +40,7 @@ SPARCED is a new version of the mechanistic pan-cancer signaling model by Birtwi
 
 ## Model simulation:
 
-After completing the "Model Creation" part, by using the available files, use the jupyter-notebook called "RunModel.ipynb" to run the model for the specified conditions.
+After completing the "Model Creation" part above or by using the provided files, you can use the jupyter-notebook called "RunModel.ipynb" to run the model for the specified conditions.
 
 
 
