@@ -12,7 +12,7 @@ SPARCED is a new version of the mechanistic pan-cancer signaling model by Birtwi
 
 ### 1) Install Anaconda
   - Follow the instructions depending on your machine: https://docs.anaconda.com/anaconda/user-guide/getting-started/
-  - Install basic packages like python (3.7 or later), numpy, scipy, matplotlib, jupyter-notebooks...
+  - Install basic packages like python (3.7 or later), numpy, scipy, matplotlib, pandas, jupyter-notebooks...
 
 ### 2) Install AMICI
   - Follow the instructions on project home: https://github.com/ICB-DCM/AMICI
@@ -46,7 +46,7 @@ After completing the "Model Creation" part above or by using the provided files,
 
 ## Acknowledgements:
 
-This work is a product of [Birtwistle Lab](http://www.birtwistlelab.com/) and multiple colloborators.
+This work is a product of [Birtwistle Lab](http://www.birtwistlelab.com/) and multiple colloborators, including [Feltus Lab](https://www.clemson.edu/science/departments/genetics-biochemistry/people/profiles/ffeltus), [Hasenauer Lab](https://www.mathematics-and-life-sciences.uni-bonn.de/en/group-members/jan-hasenauer), and [Robert Blake] (https://bbs.llnl.gov/RobertBlake.html) from LLNL.
 
 
 
