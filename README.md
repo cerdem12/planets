@@ -53,7 +53,7 @@ This work is a product of [Birtwistle Lab](http://www.birtwistlelab.com/) and mu
 
 
 ## The Acronym:
-The acronym SPARCED is composed of following elements, based on the sub-models in the big mechanistic ODE model.
+The acronym SPARCED is composed of following elements, based on the sub-models in the mechanistic ODE model.
 
 ### S: SBML
   
