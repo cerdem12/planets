@@ -1,10 +1,12 @@
 # SPARCED: An SBML Model of Pan-Cancer RTK Signaling and Stochastic Gene Expression 
 
-SPARCED is a new version of the mechanistic pan-cancer signaling model by Birtwistle Lab, originally written in MATLAB. The cellular signaling portion of the earlier model is converted into an SBML model. The new scheme still uses the stochastic gene expression model, which exchanges mRNA concentration information with the SBML model every 30 seconds. Please refer to the orginial model at:
+SPARCED is a new version of the mechanistic pan-cancer signaling model by Birtwistle Lab, originally written in MATLAB. The cellular signaling portion of the earlier model is converted into an SBML model. The new scheme still combines stochastic gene expression with deterministic protein signaling. For more details please refer to:
 
-1) https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005985
+1) The bioxrviv: XXX
 
-2) https://github.com/birtwistlelab/Mechanistic_Pan-Cancer_Model
+2) The original model paper: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005985
+
+3) Older python version of the original model: https://github.com/birtwistlelab/Mechanistic_Pan-Cancer_Model
 
 
 
